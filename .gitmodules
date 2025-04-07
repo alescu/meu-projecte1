@@ -1,0 +1,3 @@
+[submodule "libs"]
+	path = libs
+	url = https://github.com/alescu/1.8-Lambdas-N1.5678.git
